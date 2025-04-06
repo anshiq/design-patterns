@@ -57,7 +57,7 @@ class Sparrow extends Animal {
 }
 
 // Driver class to test the Strategy Pattern in action
-public class J00_StrategyDesignPattern{
+public class J01_StrategyDesignPattern{
     public static void main(String[] arg) {
         Dog dog = new Dog("shaky");           // Create a Dog named "shaky"
         Sparrow sparrow = new Sparrow("chinki"); // Create a Sparrow named "chinki"
